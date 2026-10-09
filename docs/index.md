@@ -13,7 +13,7 @@ week.
 
 1. [How to size your budget](lessons/lesson-01-sizing-your-budget.html) — the affordability math (28/36 rule, PITI, cash to close)
 2. [The down payment and PMI](lessons/lesson-02-down-payment-pmi.html) — how much, where it comes from, PMI
-3. Mortgage types: fixed vs ARM, conforming vs jumbo
+3. [Fixed vs ARM, conforming vs jumbo](lessons/lesson-03-fixed-vs-arm-conforming-vs-jumbo.html) — rate behavior, the conforming line, and why the choice is a FIRE decision
 4. The true monthly cost: PITI + HOA + maintenance
 5. Closing costs, cash to close, pre-approval vs pre-qualification
 6. South Bay vs Peninsula: neighborhood-level price geography
