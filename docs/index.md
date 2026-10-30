@@ -16,7 +16,7 @@ week.
 3. [Fixed vs ARM, conforming vs jumbo](lessons/lesson-03-fixed-vs-arm-conforming-vs-jumbo.html) — rate behavior, the conforming line, and why the choice is a FIRE decision
 4. [The true monthly cost](lessons/lesson-04-true-monthly-cost.html) — PITI + HOA + maintenance
 5. [Closing costs, cash to close, and pre-approval](lessons/lesson-05-closing-costs-cash-to-close-pre-approval.html) — fees, cash to close, pre-approval vs pre-qualification
-6. South Bay vs Peninsula: neighborhood-level price geography
+6. [South Bay vs Peninsula: neighborhood-level price geography](lessons/lesson-06-south-bay-vs-peninsula.html) — neighborhood-level price geography
 7. Reading a listing
 8. Open houses
 9. Comps: how to tell if a price is real
