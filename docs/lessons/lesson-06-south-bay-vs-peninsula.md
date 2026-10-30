@@ -1,0 +1,18 @@
+---
+layout: page
+title: 'Lesson 6: South Bay vs Peninsula: neighborhood-level price geography'
+---
+
+# Lesson 6: South Bay vs Peninsula: neighborhood-level price geography
+
+"The Bay Area" is not one housing market. Your search area — the South Bay (Santa Clara County) and the Peninsula (San Mateo County) — is really a price ladder, and where you stand on it changes what your budget buys more than almost any other decision.
+
+**The county gap.** As of October 2026, San Mateo County's median sale price was about $2.17M versus about $1.87M in Santa Clara County — roughly a $300k Peninsula premium at the county level. But counties are averages that hide the real story: neighborhoods inside one city can differ more than the cities differ from each other.
+
+**The neighborhood ladder.** Single-family medians from September 2026 sales show the shape of it: Los Altos and Palo Alto around $4.5M–$5.5M, Los Gatos and Saratoga around $4.1M–$4.2M, Cupertino and Mountain View around $3M–$3.6M, Sunnyvale around $2.5M–$3M, and much of San Jose — Willow Glen, Almaden, Cambrian — around $1.8M–$2.1M, with Santa Clara near $1.87M. The same $2M that buys a modest house in Sunnyvale buys a substantially larger one in parts of San Jose, and barely gets in the door in Palo Alto. (Medians move month to month and mix different house sizes, so treat these as a map, not a price tag.)
+
+**Why the ladder looks like this.** Three forces: commute, schools, and lot. The Peninsula premium is largely a commute premium — Caltrain-corridor towns put you closer to the job centers up the Peninsula, and buyers pay for the shorter drive. School-district boundaries are the second force, and they cut street by street: two houses a block apart can sit in different districts and price accordingly. Third, lot and house size: Peninsula lots tend to be smaller and older, South Bay tracts newer and roomier — so the South Bay often gives you more square feet per dollar, at the cost of the drive.
+
+**The FIRE tie-in.** Geography is the budget lever from lessons 1–4 in disguise. A $500k step down the ladder — say, Sunnyvale to a comparable San Jose neighborhood — is not just a lower monthly payment. It is roughly two and a half years of ~$200k/yr savings that stays invested instead of locked in equity, plus decades of compounding on the difference. That is why the search area is a financial decision first and a lifestyle decision second — though the commute you live with daily is a real cost too.
+
+**Action:** before touring seriously, draw your map. Pick three or four target neighborhoods across the ladder, note what $2M buys in each, and drive the commute at rush hour. You are not picking a city — you are picking a rung, and the rung sets the budget everything else hangs on.
