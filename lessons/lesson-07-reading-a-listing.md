@@ -1,0 +1,13 @@
+# Lesson 7: Reading a listing
+
+A listing is a sales document, not a spec sheet. Every photo, word, and number in it was chosen to make you want the house — your job is to read what it leaves out.
+
+**Photos lie by omission.** Wide-angle lenses make rooms look twice as big, and virtually staged furniture hides worn floors. Read the gaps: no photo of the kitchen usually means the kitchen is the problem; no shot of the back of the house, the street, or the garage interior — same logic. Count the photos against the house: a 4-bed with eight photos is hiding rooms. And check the light: every shot at golden hour with the blinds open can mask a dark, north-facing interior — something that matters more than you'd think when you live in it daily.
+
+**The numbers that matter.** Price per square foot is the quick sanity check against the neighborhood (lesson 6), but verify the square footage itself — Bay Area listings sometimes count unpermitted additions or converted garages. Year built tells you the likely systems: pre-1978 means lead-paint disclosures, and 1960s–70s tract homes often mean original sewer laterals and galvanized plumbing. Lot size matters here more than in most markets: a big lot in San Jose is a different asset than the same house on a 4,000 sq ft Peninsula lot.
+
+**Days on market is a signal, not a verdict.** As of September 2026, the median San Jose single-family home sold in about 26 days; Palo Alto moved in about 13. A house sitting 45+ days in this market is telling you something — usually overpricing, but sometimes a real problem the photos hid. But check the price history first: a "new" listing with two price cuts and a prior withdrawal is not new at all. Redfin and Zillow show the full history, and a listing that was withdrawn and relisted resets the days-on-market clock — so the number on the page can understate how long the house has actually been for sale.
+
+**Disclosures are where the real story lives.** California sellers must disclose known defects, and in the Bay Area the natural-hazard disclosure is standard reading: earthquake fault zones, liquefaction, flood, and wildfire-severity zones. Los Gatos hills and the Santa Cruz Mountains edge carry fire-zone disclosures that change insurance costs. Ask for the disclosure packet before you fall in love, not after.
+
+**Action:** pick three live listings in your target neighborhoods and read each one like a skeptic — list what's missing from the photos, check the price history, and note the days on market against the 26-day median. You're training the eye that will spot the real deal when it appears.
