@@ -18,7 +18,7 @@ week.
 5. [Closing costs, cash to close, and pre-approval](lessons/lesson-05-closing-costs-cash-to-close-pre-approval.html) — fees, cash to close, pre-approval vs pre-qualification
 6. [South Bay vs Peninsula: neighborhood-level price geography](lessons/lesson-06-south-bay-vs-peninsula.html) — neighborhood-level price geography
 7. [Reading a listing](lessons/lesson-07-reading-a-listing.html) — what photos hide, disclosures, days on market
-8. Open houses
+8. [Open houses: what to look at and ask](lessons/lesson-08-open-houses.html) — what to look at, what to ask, red flags
 9. Comps: how to tell if a price is real
 10. Offers and Bay Area bidding dynamics
 11. Inspections and disclosures
